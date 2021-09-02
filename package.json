@@ -38,7 +38,7 @@
     "postcss-color-function": "^3.0.0",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.1.2",
-    "postcss-loader": "^0.9.1",
+    "postcss-loader": "^0.13.0",
     "postcss-neat": "^2.5.2",
     "postcss-nested": "^1.0.0",
     "postcss-simple-extend": "^1.0.0",
